@@ -1,0 +1,18 @@
+﻿  assignment1.cpp
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\bezier\mlbezier.h(120): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\inc\shader_m.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\inc\shader_m.h(51): warning C4101: 'success': unreferenced local variable
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(580): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(677): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(686): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(687): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(694): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw2\win\assignment2\src\assignment1.cpp(695): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 502 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testdrawgrid.vcxproj -> C:\Users\Dell\Desktop\CG\HW\hw2\win\assignment2\x64\Release\assignment.exe

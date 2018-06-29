@@ -1,0 +1,14 @@
+﻿  glad.c
+  main.cpp
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\shader_s.h(53): warning C4101: 'infoLog': unreferenced local variable
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\shader_s.h(52): warning C4101: 'success': unreferenced local variable
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(82): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(253): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(361): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(370): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(371): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(375): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(376): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(378): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\desktop\cg\hw\hw1\hw1\hw1\main.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  hw1.vcxproj -> C:\Users\Dell\Desktop\CG\HW\hw1\hw1\Debug\hw1.exe

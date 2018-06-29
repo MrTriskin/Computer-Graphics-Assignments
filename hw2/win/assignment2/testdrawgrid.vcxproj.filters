@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="inc">
+      <UniqueIdentifier>{122961c7-ecac-4f32-8cfd-3e05b8fae57a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{93229a2a-6d9b-4f0d-b170-0708c68e8dae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="loadImg">
+      <UniqueIdentifier>{5fc77c8c-91fa-49ee-bc29-1e67cbee6673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bezier">
+      <UniqueIdentifier>{1b1ac9c9-f860-4ed8-bed7-fc06f5fce99d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{a24a957a-6c85-4d77-9269-9c779da366a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{fda3ea37-f428-49c4-86ac-57b3a029e4ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource\textures">
+      <UniqueIdentifier>{af82ae79-fb84-407f-aa77-174947498cf4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\common.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\shader_m.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="3rdparty\stb_image.h">
+      <Filter>loadImg</Filter>
+    </ClInclude>
+    <ClInclude Include="3rdparty\stb_image_write.h">
+      <Filter>loadImg</Filter>
+    </ClInclude>
+    <ClInclude Include="bezier\mlbezier.h">
+      <Filter>bezier</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\camera.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\assignment1.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdparty\stb_image.cpp">
+      <Filter>loadImg</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader\camera.vs">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="shader\camera.fs">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="shader\lightSource.fs">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="shader\lightSource.vs">
+      <Filter>shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resource\textures\awesomeface.png">
+      <Filter>resource\textures</Filter>
+    </Image>
+    <Image Include="resource\textures\container.jpg">
+      <Filter>resource\textures</Filter>
+    </Image>
+    <Image Include="resource\textures\img.jpg">
+      <Filter>resource\textures</Filter>
+    </Image>
+    <Image Include="resource\textures\02.png">
+      <Filter>resource\textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

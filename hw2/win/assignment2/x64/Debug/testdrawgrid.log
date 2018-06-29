@@ -1,0 +1,20 @@
+﻿  stb_image.cpp
+  assignment1.cpp
+c:\users\dell\desktop\win\assignment2\inc\shader_m.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\dell\desktop\win\assignment2\inc\shader_m.h(51): warning C4101: 'success': unreferenced local variable
+  Generating Code...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function "void __cdecl drawControlPoint(class mlBezier &)" (?drawControlPoint@@YAXAEAVmlBezier@@@Z)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function main
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function "void __cdecl drawControlPoint(class mlBezier &)" (?drawControlPoint@@YAXAEAVmlBezier@@@Z)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function "void __cdecl drawControlPoint(class mlBezier &)" (?drawControlPoint@@YAXAEAVmlBezier@@@Z)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glLoadIdentity referenced in function "void __cdecl initPMV(void)" (?initPMV@@YAXXZ)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glMatrixMode referenced in function "void __cdecl initPMV(void)" (?initPMV@@YAXXZ)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glPointSize referenced in function main
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glPolygonMode referenced in function main
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glVertex3f referenced in function "void __cdecl drawControlPoint(class mlBezier &)" (?drawControlPoint@@YAXAEAVmlBezier@@@Z)
+assignment1.obj : error LNK2019: unresolved external symbol __imp_glViewport referenced in function "void __cdecl framebuffer_size_callback(struct GLFWwindow *,int,int)" (?framebuffer_size_callback@@YAXPEAUGLFWwindow@@HH@Z)
+assignment1.obj : error LNK2019: unresolved external symbol gluPerspective referenced in function "void __cdecl initPMV(void)" (?initPMV@@YAXXZ)
+assignment1.obj : error LNK2019: unresolved external symbol gluLookAt referenced in function "void __cdecl initPMV(void)" (?initPMV@@YAXXZ)
+C:\Users\Dell\Desktop\win\assignment2\x64\Debug\assignment.exe : fatal error LNK1120: 13 unresolved externals
